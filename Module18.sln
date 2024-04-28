@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module18.SuzukuBuilder", "Module18.SuzukuBuilder\Module18.SuzukuBuilder.csproj", "{836F6DFC-DFEC-448D-9DEB-C8C3938AD5E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module18.CommandsPult", "Module18.CommandsPult\Module18.CommandsPult.csproj", "{7E684CA7-0EC2-4AAF-80B8-3B2C9E2703ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module18.CommandsPult", "Module18.CommandsPult\Module18.CommandsPult.csproj", "{7E684CA7-0EC2-4AAF-80B8-3B2C9E2703ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module18.Final", "Module18.Final\Module18.Final.csproj", "{4ED137B9-A28C-4BE9-A757-99F960DE276B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7E684CA7-0EC2-4AAF-80B8-3B2C9E2703ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E684CA7-0EC2-4AAF-80B8-3B2C9E2703ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E684CA7-0EC2-4AAF-80B8-3B2C9E2703ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED137B9-A28C-4BE9-A757-99F960DE276B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED137B9-A28C-4BE9-A757-99F960DE276B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED137B9-A28C-4BE9-A757-99F960DE276B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED137B9-A28C-4BE9-A757-99F960DE276B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
